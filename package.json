@@ -30,13 +30,5 @@
         "mac": {
             "category": "music"
         }
-        "linux": {
-            "icon": "build/icon.png",
-            "target": [
-                "deb",
-                "snap",
-                "appimage"
-            ]
-        }
     }
 }
